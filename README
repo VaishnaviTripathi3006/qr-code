@@ -1,0 +1,73 @@
+# Frontend Mentor - Product preview card component solution
+
+This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+
+## Table of contents
+
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
+
+## Overview
+I had to create this front-end webpage.
+
+### The challenge
+
+Users should be able to:
+
+- View the optimal layout depending on their device's screen size
+- See hover and focus states for interactive elements
+
+
+### Screenshot
+
+screenshot(31).png
+
+
+### Links
+
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/flexboxbootstrap-G0l74Giwqs)
+- Live Site URL: [Add live site URL here](http://vaishnavitripathi.io.com/)
+
+
+##My Process
+
+In my journey, I learn about flexbox containers and items and how they can be used for the convenient arrangement using various attributes on flex-containers.
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- Bootstrap
+
+
+### What I learned
+
+Being a beginner the journey was very much fruitful for me, it made my concepts of CSS and HTML more clear, and got to know about Flexbox and also learned my way to make responsive websites.
+
+
+### Useful resources
+
+- stack overflow
+- w3 school documentation
+
+
+## Author
+
+- Website - [Vaishnavi Tripathi](https://www.your-site.com)
+- Frontend Mentor - [@VaishnaviTripathi3006](https://www.frontendmentor.io/profile/yourusername)
+
+
+## Acknowledgments
+
+Thankyou! frontend mentor for this opportunity.
+
